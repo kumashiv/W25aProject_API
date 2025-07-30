@@ -21,4 +21,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\W25aProject_DataAccessLayer\W25aProject_DataAccessLayer.csproj" />
+  </ItemGroup>
+
 </Project>
